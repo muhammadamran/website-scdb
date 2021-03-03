@@ -10,7 +10,7 @@ if ($get_api[1] == 'api') {
 } else {
 
 
-	$data = $db->query('SELECT * FROM tbl_ftheme');
+	$data = $db->query("SELECT * FROM tbl_ftheme WHERE berkas='1'");
 	$row = $data->fetch_assoc();
 
 	if ($row['kode']== '001' && $row['berkas']== '1') {

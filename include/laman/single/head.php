@@ -6,8 +6,8 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600&amp;subset=latin-ext" rel="stylesheet">
-	<link href="assets/css/main.css" rel="stylesheet">
-	<script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
-	<script src="assets/js/vendor/jquery-1.12.0.min.js"></script>
+	<link href="assets/page-laman/css/main.css" rel="stylesheet">
+	<script src="assets/page-laman/js/vendor/modernizr-2.8.3.min.js"></script>
+	<script src="assets/page-laman/js/vendor/jquery-1.12.0.min.js"></script>
 </head>
 <body>
